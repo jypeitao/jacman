@@ -14,8 +14,9 @@ menu:
 widgets: 
 #- github-card
 #- category
-#- tag
+- tag
 - links
+#- tagcloud
 #- douban
 #- rss
 #- weibo
