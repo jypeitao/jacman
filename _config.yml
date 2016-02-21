@@ -47,6 +47,7 @@ index:
   expand: false          ## default is unexpanding,so you can only see the short description of each post.
   excerpt_link: Read More  
 
+close_aside_as_default: true
 close_aside: true  #close sidebar in post page if true
 mathjax: false      #enable mathjax if true
 
@@ -81,9 +82,11 @@ toc:
 
 #### Links
 links:
-  看雪论坛: http://bbs.pediy.com
+  Android gerrit: https://android-review.googlesource.com/#/q/status:open,Android代码review
+  Android code: https://android.googlesource.com/,Android代码在线查看
+  看雪论坛: http://bbs.pediy.com,软件安全方面的论坛
+  CSDN: http://blog.csdn.net/jypeitao,我的csdn
   China-pub: http://www.china-pub.com,我常买书的地方
-  码农圈: https://coderq.com,一个面向程序员交流分享的新一代社区
 
 
 
